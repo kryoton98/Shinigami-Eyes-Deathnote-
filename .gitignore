@@ -1,0 +1,14 @@
+# Ignore the Shinigami Memory Bank (Captured Photos)
+captures/
+
+# Ignore Python Cache Files
+__pycache__/
+*.pyc
+
+# Ignore Virtual Environments (if you ever use one)
+venv/
+env/
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
